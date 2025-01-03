@@ -59,6 +59,6 @@ while chances > 0:
         break
 
     if chances == 0:
-        print("Derrota")
+        print("Derrota");
         print(palavra_secreta)
         break
